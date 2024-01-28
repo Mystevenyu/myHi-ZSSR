@@ -1,0 +1,12 @@
+#version 330 core
+
+uniform sampler2D depthBuffer;
+uniform int prevLevel;
+
+in vec2 TexCoord[];
+
+out float fragDepth;
+
+void main(void) {
+
+}
