@@ -1,2 +1,2 @@
 This project is a reproduction of some of the techniques from the "Hi-Z Screen-Space Cone-Traced Reflections" chapter in GPU PRO 5. Some of these techniques are encountered in professional job interviews, and lacking the relevant theoretical and practical knowledge, we chose this topic in the spirit of learning, exploration, and expanding new technical knowledge. The project can be run by clicking the sln file, and all third-party resources, libraries, and pseudocode involved in the project are detailed in the report.
-![Uploading 50iter.png…]()
+
